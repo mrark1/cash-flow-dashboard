@@ -25,7 +25,7 @@ A personal finance management dashboard built using HTML, CSS, and Vanilla JavaS
 
 ## Live Demo
 
-<https://vercel.com/arpit-raj-katiyars-projects/cash-flow-dashboard>
+<https://cash-flow-dashboard-zeta.vercel.app/>
 
 ## Screenshot
 
