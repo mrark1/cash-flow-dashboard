@@ -25,11 +25,17 @@ A personal finance management dashboard built using HTML, CSS, and Vanilla JavaS
 
 ## Live Demo
 
-Add your Vercel URL here.
+<https://vercel.com/arpit-raj-katiyars-projects/cash-flow-dashboard>
 
 ## Screenshot
 
-Add project screenshot inside assets/screenshots folder and paste it here.
+Dashboard
+![Dashboard](assets/A.png)
+![Dashboard](assets/B.png)
+![Dashboard](assets/C.png)
+
+PDF Download
+![PDF Download](assets/PDF.png)
 
 ## Author
 
